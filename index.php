@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>CR</title>
 </head>
 <body>
     This is my first openshift php-app 
