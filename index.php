@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>CR</title>
+    <title>Christoph Ruhsam</title>
 </head>
 <body>
     This is my first openshift php-app 
