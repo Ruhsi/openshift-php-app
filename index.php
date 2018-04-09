@@ -3,7 +3,6 @@
     <title>Christoph Ruhsam</title>
 </head>
 <body>
-    This is my first openshift php-app 
-    &copy; Christoph Ruhsam
+    My first Openshift app
 </body>
 </html>
