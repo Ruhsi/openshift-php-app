@@ -1,8 +1,8 @@
 <html>
 <head>
-    <title>Christoph Ruhsam</title>
+    <title>CR</title>
 </head>
 <body>
-    My first Openshift app
+    My first Openshift app - Christoph Ruhsam
 </body>
 </html>
