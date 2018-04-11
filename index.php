@@ -1,8 +1,8 @@
 <html>
 <head>
-    <title>xcdsfdsdsfsdsdfsCR</title>
+    <title>CR</title>
 </head>
 <body>
- dsfsdfdsfdsdfs    My first Openshift app - Christoph Ruhsam
+ My first Openshift app - Christoph Ruhsam
 </body>
 </html>
